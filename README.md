@@ -5,7 +5,7 @@ This script decodes Data Matrix codes from images using OpenCV and pylibdmtx.
 ## Usage
 
 ```bash
-python decode_datamatrix.py
+python qr_decode.py
 
 Then repeat the `git add`, `commit`, and `push` steps to include it.
 
